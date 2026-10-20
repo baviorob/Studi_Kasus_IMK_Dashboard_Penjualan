@@ -1,0 +1,361 @@
+﻿tanggal,produk,kategori,wilayah,kanal_penjualan,jumlah_terjual,harga_satuan_rp,pendapatan_rp
+2025-11-24,Laptop,Elektronik,Jakarta,Toko Online,1,7862325,7862325
+2025-03-13,Webcam,Aksesori,Yogyakarta,Toko Online,2,621203,1242406
+2025-10-30,Monitor,Elektronik,Jakarta,Toko Online,1,1993110,1993110
+2025-09-16,Headset,Aksesori,Yogyakarta,Toko Fisik,1,455512,455512
+2025-04-23,Monitor,Elektronik,Bengkulu,Toko Online,5,2336149,11680745
+2025-12-24,Monitor,Elektronik,Jakarta,Toko Fisik,6,2102263,12613578
+2025-02-22,Laptop,Elektronik,Bandung,Marketplace,2,6895074,13790148
+2025-05-16,Laptop,Elektronik,Bengkulu,Toko Fisik,3,7439137,22317411
+2025-02-10,Headset,Aksesori,Yogyakarta,Toko Fisik,5,479646,2398230
+2025-10-23,Mouse,Aksesori,Jakarta,Toko Fisik,2,136374,272748
+2025-02-10,Mouse,Aksesori,Palembang,Marketplace,2,146403,292806
+2025-07-06,Mouse,Aksesori,Bandung,Marketplace,6,145658,873948
+2025-12-16,Webcam,Aksesori,Jakarta,Marketplace,2,613095,1226190
+2025-05-06,Mouse,Aksesori,Yogyakarta,Toko Online,8,146383,1171064
+2025-12-17,Keyboard,Aksesori,Bengkulu,Toko Fisik,1,331033,331033
+2025-07-25,Keyboard,Aksesori,Yogyakarta,Marketplace,2,329768,659536
+2025-06-11,Mouse,Aksesori,Palembang,Toko Online,8,146868,1174944
+2025-05-16,Mouse,Aksesori,,Toko Fisik,4,157349,629396
+2025-10-27,Monitor,Elektronik,Jakarta,Marketplace,7,2139278,14974946
+2025-09-10,Laptop,Elektronik,Jakarta,Marketplace,1,8041654,8041654
+2025-03-23,Webcam,Aksesori,Palembang,Toko Fisik,7,611569,4280983
+2025-11-02,Monitor,Elektronik,Bengkulu,Marketplace,5,2407274,12036370
+2025-02-28,Webcam,Aksesori,Bandung,Toko Online,5,632231,3161155
+2025-05-31,Monitor,Elektronik,Bandung,Marketplace,3,2179638,6538914
+2025-04-02,Headset,Aksesori,Bandung,Marketplace,2,483346,966692
+2025-09-17,Headset,Aksesori,Jakarta,Marketplace,4,418755,1675020
+2025-09-29,Laptop,Elektronik,Bengkulu,Toko Online,3,7236234,21708702
+2025-07-05,Keyboard,Aksesori,Yogyakarta,Toko Online,4,319054,1276216
+2025-02-13,Webcam,Aksesori,Yogyakarta,Toko Online,8,637922,5103376
+2025-03-07,Webcam,Aksesori,Jakarta,Toko Fisik,8,653621,5228968
+2025-09-28,Headset,Aksesori,Yogyakarta,Marketplace,7,491792,3442544
+2025-12-20,Mouse,Aksesori,Bandung,Toko Fisik,5,146969,734845
+2025-09-22,Monitor,Elektronik,Bengkulu,Toko Fisik,2,2089078,4178156
+2025-01-11,Headset,Aksesori,Bengkulu,Toko Online,4,457959,1831836
+2025-12-29,Webcam,Aksesori,Bengkulu,Toko Fisik,1,567473,567473
+2025-02-06,Headset,Aksesori,Palembang,Toko Online,4,430062,1720248
+2025-10-04,Mouse,Aksesori,Palembang,Toko Fisik,8,142289,1138312
+2025-04-08,Laptop,Elektronik,Bandung,Toko Fisik,1,7738474,7738474
+2025-07-30,Monitor,Elektronik,Bengkulu,Toko Online,1,2276280,2276280
+2025-07-26,Webcam,Aksesori,Bengkulu,Toko Online,6,636071,3816426
+2025-04-09,Mouse,Aksesori,Jakarta,Toko Fisik,8,139205,1113640
+2025-08-25,Mouse,Aksesori,Yogyakarta,Toko Online,2,148293,296586
+2025-01-26,Webcam,Aksesori,Jakarta,Toko Online,1,656279,656279
+2025-07-28,Monitor,Elektronik,Palembang,Toko Online,8,2074048,16592384
+2025-03-26,Monitor,Elektronik,Bandung,Toko Fisik,1,2413535,2413535
+2025-05-27,Monitor,Elektronik,Bandung,Toko Online,8,2048110,16384880
+2025-01-30,Headset,Aksesori,Bengkulu,Toko Online,1,472317,472317
+2025-10-27,Monitor,Elektronik,Yogyakarta,Toko Online,3,2005027,6015081
+2025-04-06,Laptop,Elektronik,Jakarta,Toko Fisik,3,6851941,20555823
+2025-03-03,Headset,Aksesori,Bengkulu,Marketplace,4,457102,1828408
+2025-02-11,Monitor,Elektronik,Jakarta,Marketplace,6,2391270,14347620
+2025-06-10,Mouse,Aksesori,Bandung,Toko Fisik,5,146873,734365
+2025-06-11,Laptop,Elektronik,Yogyakarta,Toko Online,1,7437428,7437428
+2025-02-07,Headset,Aksesori,Jakarta,Toko Fisik,4,450529,1802116
+2025-02-05,Mouse,Aksesori,Palembang,Marketplace,6,143549,861294
+2025-12-27,Keyboard,Aksesori,Yogyakarta,Toko Fisik,1,361750,361750
+2025-12-06,Laptop,Elektronik,Bengkulu,Marketplace,1,7146698,7146698
+2025-10-11,Mouse,Aksesori,Jakarta,Marketplace,5,143452,717260
+2025-06-25,Mouse,Aksesori,Bandung,Toko Online,5,150162,750810
+2025-02-17,Webcam,Aksesori,Bengkulu,Toko Online,7,639521,4476647
+2025-06-20,Mouse,Aksesori,Palembang,Marketplace,5,139847,699235
+2025-12-28,Monitor,Elektronik,Jakarta,Marketplace,1,2029224,2029224
+2025-01-19,Keyboard,Aksesori,Bengkulu,Toko Fisik,3,345085,1035255
+2025-07-06,Laptop,Elektronik,Jakarta,Marketplace,2,7065114,14130228
+2025-02-22,Keyboard,Aksesori,Jakarta,Toko Online,7,383168,2682176
+2025-03-25,Mouse,Aksesori,Bandung,Toko Fisik,7,135743,950201
+2025-12-09,Webcam,Aksesori,Bengkulu,Toko Fisik,4,572016,2288064
+2025-01-20,Monitor,Elektronik,Palembang,Toko Fisik,4,2067812,8271248
+2025-06-06,Mouse,Aksesori,Jakarta,Toko Fisik,4,135709,542836
+2025-06-18,Keyboard,Aksesori,Bandung,Toko Fisik,2,382682,765364
+2025-11-25,Headset,Aksesori,Yogyakarta,Toko Fisik,7,466156,3263092
+2025-01-15,Laptop,Elektronik,Bandung,Toko Online,2,7017851,14035702
+2025-02-25,Headset,Aksesori,Bandung,Toko Fisik,7,436111,3052777
+2025-11-07,Headset,Aksesori,Yogyakarta,Toko Online,2,439667,879334
+2025-05-11,Laptop,Elektronik,Yogyakarta,Marketplace,3,7404086,22212258
+2025-12-18,Webcam,Aksesori,Bengkulu,Marketplace,4,583706,2334824
+2025-06-19,Headset,Aksesori,Bengkulu,Marketplace,6,464704,2788224
+2025-06-03,Headset,Aksesori,Bandung,Toko Fisik,5,465020,2325100
+2025-12-23,Keyboard,Aksesori,Palembang,Marketplace,3,328428,985284
+2025-03-31,Headset,Aksesori,Bengkulu,Toko Fisik,5,441546,2207730
+2025-05-27,Mouse,Aksesori,Yogyakarta,Marketplace,7,158572,1110004
+2025-06-14,Monitor,Elektronik,Jakarta,Marketplace,8,2174550,17396400
+2025-08-31,Webcam,Aksesori,Bandung,Marketplace,3,619062,1857186
+2025-12-06,Webcam,Aksesori,Jakarta,Marketplace,6,551206,3307236
+2025-06-08,Mouse,Aksesori,Bengkulu,Toko Online,4,139420,557680
+2025-09-01,Headset,Aksesori,Yogyakarta,Toko Online,2,445987,891974
+2025-12-23,Monitor,Elektronik,Jakarta,Marketplace,8,2155847,17246776
+2025-12-19,Laptop,Elektronik,Jakarta,Toko Online,1,7917630,7917630
+2025-12-23,Headset,Aksesori,Jakarta,Toko Online,8,409519,3276152
+2025-08-22,Mouse,Aksesori,,Marketplace,8,155027,1240216
+2025-06-12,Monitor,Elektronik,Yogyakarta,Toko Fisik,7,2345450,16418150
+2025-03-23,Webcam,Aksesori,Jakarta,Marketplace,8,594008,4752064
+2025-05-22,Headset,Aksesori,Bandung,Toko Fisik,8,461407,3691256
+2025-02-09,Webcam,Aksesori,Bandung,Toko Fisik,5,568139,2840695
+2025-10-04,Laptop,Elektronik,Palembang,Marketplace,1,6976245,6976245
+2025-03-20,Webcam,Aksesori,Palembang,Toko Fisik,4,547707,2190828
+2025-10-05,Monitor,Elektronik,Palembang,Toko Fisik,7,2007396,14051772
+2025-10-27,Webcam,Aksesori,Yogyakarta,Toko Fisik,1,642807,642807
+2025-09-02,Laptop,Elektronik,Palembang,Toko Fisik,2,7197918,14395836
+2025-10-03,Webcam,Aksesori,Bandung,Toko Fisik,4,598587,2394348
+2025-09-06,Laptop,Elektronik,Palembang,Marketplace,2,7254194,14508388
+2025-03-26,Monitor,Elektronik,Yogyakarta,Toko Online,3,2411517,7234551
+2025-07-21,Headset,Aksesori,Palembang,Toko Online,1,412555,412555
+2025-08-25,Mouse,Aksesori,Bandung,Toko Online,1,142804,142804
+2025-08-21,Keyboard,Aksesori,Palembang,Toko Fisik,6,368286,2209716
+2025-08-04,Keyboard,Aksesori,Yogyakarta,Toko Online,2,347921,695842
+2025-06-29,Mouse,Aksesori,Bengkulu,Toko Online,2,158436,316872
+2025-05-07,Mouse,Aksesori,Jakarta,Toko Online,1,153640,153640
+2025-08-31,Webcam,Aksesori,Jakarta,Toko Fisik,2,607676,1215352
+2025-12-25,Keyboard,Aksesori,Yogyakarta,Marketplace,6,326745,1960470
+2025-02-28,Mouse,Aksesori,Bengkulu,Toko Fisik,5,138242,691210
+2025-10-22,Webcam,Aksesori,Jakarta,Toko Online,7,587598,4113186
+2025-10-31,Webcam,Aksesori,Bandung,Marketplace,4,552228,2208912
+2025-11-04,Laptop,Elektronik,Bandung,Marketplace,3,7923953,23771859
+2025-08-08,Webcam,Aksesori,Bandung,Toko Online,6,548274,3289644
+2025-08-04,Monitor,Elektronik,Bandung,Marketplace,2,2170750,4341500
+2025-08-24,Webcam,Aksesori,Yogyakarta,Marketplace,3,592258,1776774
+2025-05-19,Headset,Aksesori,Yogyakarta,Toko Fisik,8,446838,3574704
+2025-06-15,Mouse,Aksesori,Palembang,Toko Online,2,143367,286734
+2025-08-26,Headset,Aksesori,Palembang,Toko Fisik,7,435275,3046925
+2025-04-04,Monitor,Elektronik,Bandung,Toko Fisik,4,2136122,8544488
+2025-05-24,Headset,Aksesori,Yogyakarta,Toko Online,5,455021,2275105
+2025-02-13,Mouse,Aksesori,Jakarta,Marketplace,7,149657,1047599
+2025-09-01,Webcam,Aksesori,Bengkulu,Toko Online,8,593780,4750240
+2025-05-31,Mouse,Aksesori,Bandung,Marketplace,7,155753,1090271
+2025-10-25,Keyboard,Aksesori,Bandung,Toko Fisik,8,353743,2829944
+2025-10-09,Keyboard,Aksesori,Bandung,Toko Fisik,6,364199,2185194
+2025-05-09,Mouse,Aksesori,Bandung,Toko Online,2,156638,313276
+2025-10-02,Webcam,Aksesori,Palembang,Toko Fisik,3,562984,1688952
+2025-10-29,Headset,Aksesori,Jakarta,Toko Fisik,5,493245,2466225
+2025-04-27,Keyboard,Aksesori,Yogyakarta,Toko Online,3,336158,1008474
+2025-05-21,Laptop,Elektronik,Jakarta,Marketplace,1,7580038,7580038
+2025-09-09,Laptop,Elektronik,Palembang,Toko Fisik,1,7611096,7611096
+2025-08-14,Keyboard,Aksesori,Bandung,Toko Fisik,3,382584,1147752
+2025-02-28,Laptop,Elektronik,Yogyakarta,Marketplace,2,7487619,14975238
+2025-12-18,Laptop,Elektronik,Yogyakarta,Toko Fisik,1,6973796,6973796
+2025-02-13,Mouse,Aksesori,Palembang,Marketplace,2,151742,303484
+2025-11-02,Headset,Aksesori,Palembang,Toko Fisik,4,474812,1899248
+2025-08-15,Keyboard,Aksesori,Yogyakarta,Toko Online,7,336376,2354632
+2025-11-09,Webcam,Aksesori,Jakarta,Marketplace,2,653710,1307420
+2025-04-19,Keyboard,Aksesori,Jakarta,Marketplace,2,325993,651986
+2025-02-08,Mouse,Aksesori,Yogyakarta,Toko Fisik,1,147255,147255
+2025-05-30,Laptop,Elektronik,Bandung,Marketplace,1,7182157,7182157
+2025-08-21,Laptop,Elektronik,Bandung,Marketplace,3,7100135,21300405
+2025-10-29,Webcam,Aksesori,Yogyakarta,Toko Online,4,591016,2364064
+2025-11-28,Mouse,Aksesori,Bengkulu,Toko Online,5,159798,798990
+2025-03-26,Keyboard,Aksesori,Palembang,Marketplace,5,345740,1728700
+2025-06-05,Webcam,Aksesori,Yogyakarta,Marketplace,7,653121,4571847
+2025-09-10,Monitor,Elektronik,Palembang,Marketplace,2,2243136,4486272
+2025-06-15,Headset,Aksesori,Jakarta,Marketplace,5,407327,2036635
+2025-10-22,Headset,Aksesori,Bandung,Marketplace,1,494961,494961
+2025-01-21,Mouse,Aksesori,Palembang,Toko Fisik,8,150568,1204544
+2025-04-03,Headset,Aksesori,Palembang,Toko Online,7,462130,3234910
+2025-08-29,Keyboard,Aksesori,Bengkulu,Toko Online,7,338331,2368317
+2025-06-18,Monitor,Elektronik,Palembang,Marketplace,8,2106815,16854520
+2025-01-19,Monitor,Elektronik,Bandung,Toko Online,2,2118387,4236774
+2025-07-26,Headset,Aksesori,Yogyakarta,Toko Fisik,1,464189,464189
+2025-07-31,Laptop,Elektronik,Yogyakarta,Toko Fisik,1,7527659,7527659
+2025-11-17,Monitor,Elektronik,Yogyakarta,Toko Online,1,2069565,2069565
+2025-05-28,Monitor,Elektronik,Yogyakarta,Toko Online,8,2033427,16267416
+2025-12-30,Mouse,Aksesori,Yogyakarta,Toko Fisik,5,151525,757625
+2025-02-17,Mouse,Aksesori,Bengkulu,Marketplace,2,148843,297686
+2025-03-20,Monitor,Elektronik,Bandung,Toko Fisik,5,2203903,11019515
+2025-09-05,Monitor,Elektronik,Jakarta,Toko Fisik,4,2180986,8723944
+2025-04-08,Headset,Aksesori,Bandung,Toko Fisik,3,482762,1448286
+2025-06-24,Headset,Aksesori,Bandung,Marketplace,5,478849,2394245
+2025-06-02,Headset,Aksesori,Palembang,Marketplace,8,482873,3862984
+2025-09-05,Keyboard,Aksesori,Yogyakarta,Toko Fisik,6,353634,2121804
+2025-08-22,Keyboard,Aksesori,Jakarta,Marketplace,4,383654,1534616
+2025-07-16,Mouse,Aksesori,Palembang,Marketplace,7,136309,954163
+2025-07-15,Monitor,Elektronik,Bengkulu,Toko Online,3,2197944,6593832
+2025-09-15,Headset,Aksesori,Palembang,Toko Online,6,483273,2899638
+2025-09-27,Monitor,Elektronik,Palembang,Marketplace,1,2297875,2297875
+2025-03-21,Laptop,Elektronik,Bandung,Toko Fisik,2,7922287,15844574
+2025-11-16,Webcam,Aksesori,Bandung,Marketplace,7,617980,4325860
+2025-10-01,Monitor,Elektronik,Palembang,Marketplace,6,2255791,13534746
+2025-01-19,Headset,Aksesori,Bandung,Toko Online,2,426129,852258
+2025-02-16,Monitor,Elektronik,Bengkulu,Toko Fisik,2,2314562,4629124
+2025-03-27,Webcam,Aksesori,Bengkulu,Toko Fisik,5,648410,3242050
+2025-01-29,Keyboard,Aksesori,Jakarta,Toko Online,6,341238,2047428
+2025-09-29,Monitor,Elektronik,Bengkulu,Marketplace,3,2054792,6164376
+2025-07-15,Headset,Aksesori,Yogyakarta,Toko Online,4,449790,1799160
+2025-04-29,Monitor,Elektronik,Bengkulu,Toko Fisik,5,2182211,10911055
+2025-05-28,Webcam,Aksesori,Bandung,Marketplace,3,548863,1646589
+2025-06-03,Webcam,Aksesori,Palembang,Toko Fisik,7,622837,4359859
+2025-04-12,Monitor,Elektronik,Palembang,Marketplace,8,2026927,16215416
+2025-07-03,Headset,Aksesori,Bandung,Toko Online,5,494342,2471710
+2025-12-04,Monitor,Elektronik,Bengkulu,Marketplace,5,1983563,9917815
+2025-09-12,Keyboard,Aksesori,Bandung,Toko Online,4,357494,1429976
+2025-11-22,Mouse,Aksesori,Jakarta,Marketplace,5,155332,776660
+2025-02-19,Webcam,Aksesori,Palembang,Toko Online,1,577071,577071
+2025-10-24,Keyboard,Aksesori,Bandung,Toko Fisik,3,321309,963927
+2025-08-01,Mouse,Aksesori,Yogyakarta,Toko Fisik,4,138964,555856
+2025-09-29,Headset,Aksesori,Bandung,Toko Fisik,5,479742,2398710
+2025-06-01,Webcam,Aksesori,Palembang,Toko Online,6,636507,3819042
+2025-03-14,Mouse,Aksesori,Yogyakarta,Toko Fisik,7,164018,1148126
+2025-02-16,Monitor,Elektronik,Bengkulu,Toko Fisik,1,2096361,2096361
+2025-07-08,Webcam,Aksesori,Bandung,Toko Online,5,610147,3050735
+2025-12-12,Mouse,Aksesori,Yogyakarta,Toko Fisik,8,135750,1086000
+2025-11-09,Mouse,Aksesori,Palembang,Marketplace,2,154062,308124
+2025-06-04,Webcam,Aksesori,Bengkulu,Toko Online,7,554001,3878007
+2025-06-05,Monitor,Elektronik,,Toko Online,2,2022764,4045528
+2025-07-18,Monitor,Elektronik,Yogyakarta,Toko Fisik,6,2275013,13650078
+2025-10-28,Webcam,Aksesori,Bengkulu,Toko Fisik,3,646249,1938747
+2025-11-12,Monitor,Elektronik,Bandung,Toko Online,5,1994395,9971975
+2025-08-16,Monitor,Elektronik,Bengkulu,Marketplace,4,2356398,9425592
+2025-07-08,Headset,Aksesori,Bandung,Toko Online,6,410449,2462694
+2025-03-04,Monitor,Elektronik,Yogyakarta,Toko Online,2,2271618,4543236
+2025-01-26,Keyboard,Aksesori,Yogyakarta,Toko Online,4,384217,1536868
+2025-02-05,Headset,Aksesori,Jakarta,Toko Fisik,4,457774,1831096
+2025-03-17,Headset,Aksesori,Jakarta,Toko Online,1,429954,429954
+2025-10-04,Keyboard,Aksesori,Bengkulu,Toko Online,3,322694,968082
+2025-01-08,Keyboard,Aksesori,Bengkulu,Toko Online,4,356219,1424876
+2025-05-16,Laptop,Elektronik,Yogyakarta,Toko Online,1,7862577,7862577
+2025-02-02,Monitor,Elektronik,Yogyakarta,Marketplace,8,2322327,18578616
+2025-02-25,Monitor,Elektronik,Bengkulu,Marketplace,4,2395982,9583928
+2025-12-04,Headset,Aksesori,Bengkulu,Toko Online,5,446223,2231115
+2025-09-03,Monitor,Elektronik,Palembang,Marketplace,7,2281882,15973174
+2025-08-16,Laptop,Elektronik,Jakarta,Toko Online,1,7233167,7233167
+2025-03-06,Keyboard,Aksesori,Yogyakarta,Marketplace,6,341663,2049978
+2025-05-31,Monitor,Elektronik,Bengkulu,Marketplace,7,2023638,14165466
+2025-11-30,Headset,Aksesori,Jakarta,Toko Fisik,4,443706,1774824
+2025-06-23,Monitor,Elektronik,Bengkulu,Toko Fisik,7,2163035,15141245
+2025-08-07,Keyboard,Aksesori,Jakarta,Marketplace,5,341201,1706005
+2025-08-31,Laptop,Elektronik,Bengkulu,Toko Fisik,1,7997657,7997657
+2025-02-19,Webcam,Aksesori,Yogyakarta,Toko Online,6,637412,3824472
+2025-10-28,Headset,Aksesori,Palembang,Toko Fisik,6,465301,2791806
+2025-12-07,Monitor,Elektronik,Yogyakarta,Toko Fisik,1,2406095,2406095
+2025-06-30,Laptop,Elektronik,Jakarta,Marketplace,3,7511118,22533354
+2025-09-04,Mouse,Aksesori,Yogyakarta,Toko Fisik,2,145503,291006
+2025-02-28,Keyboard,Aksesori,Yogyakarta,Marketplace,4,371505,1486020
+2025-11-11,Webcam,Aksesori,Bandung,Toko Online,1,613079,613079
+2025-04-03,Keyboard,Aksesori,Bandung,Toko Online,5,379507,1897535
+2025-04-03,Mouse,Aksesori,Bengkulu,Toko Online,7,137087,959609
+2025-09-29,Mouse,Aksesori,Bandung,Toko Online,7,147594,1033158
+2025-07-09,Keyboard,Aksesori,Yogyakarta,Marketplace,6,369378,2216268
+2025-02-13,Laptop,Elektronik,Yogyakarta,Toko Online,1,6986114,6986114
+2025-12-12,Laptop,Elektronik,Palembang,Toko Fisik,2,7414669,14829338
+2025-11-07,Monitor,Elektronik,Yogyakarta,Toko Online,7,2100193,14701351
+2025-06-26,Monitor,Elektronik,Yogyakarta,Toko Fisik,2,2104628,4209256
+2025-09-27,Webcam,Aksesori,Palembang,Marketplace,5,545450,2727250
+2025-01-29,Laptop,Elektronik,Jakarta,Toko Online,1,7202129,7202129
+2025-05-11,Keyboard,Aksesori,Palembang,Marketplace,6,323398,1940388
+2025-08-09,Mouse,Aksesori,Jakarta,Marketplace,3,146406,439218
+2025-10-14,Webcam,Aksesori,Bengkulu,Toko Fisik,6,548649,3291894
+2025-01-10,Monitor,Elektronik,Yogyakarta,Toko Fisik,2,2359328,4718656
+2025-10-21,Monitor,Elektronik,Palembang,Toko Online,7,2107386,14751702
+2025-06-16,Mouse,Aksesori,Bandung,Toko Online,8,159960,1279680
+2025-08-12,Laptop,Elektronik,Palembang,Marketplace,1,7403514,7403514
+2025-02-10,Monitor,Elektronik,Jakarta,Toko Fisik,5,2308154,11540770
+2025-03-28,Laptop,Elektronik,Yogyakarta,Marketplace,3,7699837,23099511
+2025-04-10,Keyboard,Aksesori,Jakarta,Toko Online,6,365916,2195496
+2025-02-22,Mouse,Aksesori,Yogyakarta,Toko Online,5,140918,704590
+2025-12-02,Laptop,Elektronik,Palembang,Toko Fisik,1,8176938,8176938
+2025-10-16,Headset,Aksesori,Yogyakarta,Marketplace,8,466302,3730416
+2025-11-22,Headset,Aksesori,Bandung,Toko Online,6,482782,2896692
+2025-08-14,Laptop,Elektronik,Bandung,Toko Fisik,2,7413312,14826624
+2025-10-30,Laptop,Elektronik,Bandung,Toko Fisik,2,7511005,15022010
+2025-08-20,Laptop,Elektronik,Bandung,Toko Online,1,7303106,7303106
+2025-11-27,Laptop,Elektronik,Palembang,Toko Fisik,3,7641119,22923357
+2025-10-25,Headset,Aksesori,Yogyakarta,Marketplace,1,445476,445476
+2025-04-07,Keyboard,Aksesori,Bengkulu,Toko Fisik,8,350095,2800760
+2025-02-22,Keyboard,Aksesori,Jakarta,Toko Online,2,350318,700636
+2025-05-07,Webcam,Aksesori,Yogyakarta,Marketplace,8,658918,5271344
+2025-11-09,Mouse,Aksesori,Bandung,Toko Fisik,6,146185,877110
+2025-07-29,Keyboard,Aksesori,Bandung,Toko Online,1,370245,370245
+2025-06-18,Laptop,Elektronik,Bandung,Toko Fisik,3,7767569,23302707
+2025-12-03,Headset,Aksesori,Yogyakarta,Marketplace,3,435002,1305006
+2025-03-14,Keyboard,Aksesori,Palembang,Toko Online,5,382738,1913690
+2025-11-01,Webcam,Aksesori,Palembang,Marketplace,2,577149,1154298
+2025-06-18,Mouse,Aksesori,Palembang,Marketplace,2,154380,308760
+2025-07-05,Laptop,Elektronik,Jakarta,Toko Fisik,2,7213299,14426598
+2025-09-06,Mouse,Aksesori,Jakarta,Toko Online,4,164999,659996
+2025-06-01,Laptop,Elektronik,Yogyakarta,Toko Online,3,7906312,23718936
+2025-12-05,Keyboard,Aksesori,Jakarta,Toko Online,3,356807,1070421
+2025-04-03,Webcam,Aksesori,Bengkulu,Toko Fisik,3,626541,1879623
+2025-07-06,Webcam,Aksesori,Yogyakarta,Toko Fisik,4,656350,2625400
+2025-08-18,Mouse,Aksesori,Palembang,Toko Online,4,144284,577136
+2025-07-08,Webcam,Aksesori,Bandung,Toko Fisik,8,595401,4763208
+2025-09-15,Headset,Aksesori,Jakarta,Marketplace,7,491964,3443748
+2025-03-12,Keyboard,Aksesori,Bandung,Marketplace,1,359882,359882
+2025-02-22,Webcam,Aksesori,Jakarta,Toko Fisik,2,574207,1148414
+2025-08-19,Headset,Aksesori,Bengkulu,Toko Online,3,479794,1439382
+2025-08-19,Keyboard,Aksesori,Palembang,Marketplace,1,344042,344042
+2025-07-11,Mouse,Aksesori,Bandung,Toko Online,7,164835,1153845
+2025-01-15,Keyboard,Aksesori,Bandung,Toko Online,2,373742,747484
+2025-03-12,Laptop,Elektronik,Palembang,Marketplace,2,8126094,16252188
+2025-03-13,Webcam,Aksesori,Bengkulu,Toko Online,8,593832,4750656
+2025-01-10,Keyboard,Aksesori,Yogyakarta,Marketplace,4,373447,1493788
+2025-11-08,Headset,Aksesori,Bandung,Toko Online,7,415006,2905042
+2025-06-04,Laptop,Elektronik,Yogyakarta,Toko Fisik,1,7107659,7107659
+2025-02-02,Laptop,Elektronik,Bengkulu,Marketplace,2,7645108,15290216
+2025-09-21,Headset,Aksesori,Bandung,Toko Fisik,4,469668,1878672
+2025-01-01,Headset,Aksesori,Palembang,Toko Online,6,426650,2559900
+2025-12-07,Webcam,Aksesori,Bandung,Toko Online,2,602818,1205636
+2025-09-27,Headset,Aksesori,Palembang,Toko Online,1,440140,440140
+2025-11-22,Monitor,Elektronik,Bengkulu,Toko Fisik,6,2091606,12549636
+2025-02-04,Keyboard,Aksesori,Bengkulu,Marketplace,4,366305,1465220
+2025-06-20,Mouse,Aksesori,Bandung,Marketplace,1,145568,145568
+2025-03-31,Webcam,Aksesori,Palembang,Marketplace,8,657698,5261584
+2025-04-04,Mouse,Aksesori,Palembang,Toko Online,2,156481,312962
+2025-05-31,Mouse,Aksesori,Bengkulu,Toko Fisik,1,158733,158733
+2025-06-08,Headset,Aksesori,Yogyakarta,Toko Fisik,7,494021,3458147
+2025-05-10,Laptop,Elektronik,Bandung,Toko Online,3,7036655,21109965
+2025-12-02,Keyboard,Aksesori,Bandung,Toko Fisik,5,323713,1618565
+2025-07-24,Webcam,Aksesori,Palembang,Toko Fisik,8,647356,5178848
+2025-04-06,Monitor,Elektronik,Yogyakarta,Toko Fisik,8,2141632,17133056
+2025-02-12,Webcam,Aksesori,Yogyakarta,Toko Online,7,549471,3846297
+2025-10-07,Keyboard,Aksesori,Bandung,Marketplace,6,322181,1933086
+2025-06-01,Keyboard,Aksesori,Palembang,Toko Online,8,357183,2857464
+2025-12-20,Monitor,Elektronik,Bandung,Marketplace,6,2176737,13060422
+2025-08-11,Keyboard,Aksesori,Palembang,Toko Fisik,1,320252,320252
+2025-09-20,Webcam,Aksesori,Jakarta,Marketplace,3,654334,1963002
+2025-12-14,Monitor,Elektronik,Jakarta,Marketplace,1,2035541,2035541
+2025-07-07,Keyboard,Aksesori,Bengkulu,Marketplace,7,381462,2670234
+2025-03-20,Webcam,Aksesori,Bandung,Toko Fisik,8,653858,5230864
+2025-02-09,Headset,Aksesori,Palembang,Toko Fisik,3,452651,1357953
+2025-11-29,Keyboard,Aksesori,Bengkulu,Marketplace,4,382236,1528944
+2025-04-06,Monitor,Elektronik,Bengkulu,Toko Fisik,7,2381958,16673706
+2025-05-14,Webcam,Aksesori,Yogyakarta,Toko Fisik,8,565748,4525984
+2025-12-22,Monitor,Elektronik,Bengkulu,Toko Fisik,4,2033960,8135840
+2025-03-30,Webcam,Aksesori,Bandung,Marketplace,8,659671,5277368
+2025-06-27,Webcam,Aksesori,Bandung,Toko Fisik,2,605999,1211998
+2025-03-22,Webcam,Aksesori,Yogyakarta,Toko Online,3,635243,1905729
+2025-03-04,Mouse,Aksesori,Palembang,Toko Online,3,142102,426306
+2025-07-04,Headset,Aksesori,Yogyakarta,Toko Online,6,447066,2682396
+2025-11-10,Laptop,Elektronik,Palembang,Marketplace,1,7213936,7213936
+2025-07-30,Monitor,Elektronik,Bandung,Marketplace,2,2035143,4070286
+2025-02-07,Monitor,Elektronik,Bandung,Toko Online,8,2279247,18233976
+2025-10-10,Webcam,Aksesori,Jakarta,Toko Fisik,3,632133,1896399
+2025-09-15,Laptop,Elektronik,Bandung,Toko Online,1,7527153,7527153
+2025-03-24,Keyboard,Aksesori,Yogyakarta,Toko Fisik,4,339221,1356884
+2025-02-10,Keyboard,Aksesori,Yogyakarta,Toko Fisik,4,359453,1437812
+2025-03-06,Webcam,Aksesori,Bengkulu,Marketplace,5,613731,3068655
+2025-11-25,Mouse,Aksesori,Yogyakarta,Marketplace,3,140136,420408
+2025-11-06,Keyboard,Aksesori,Bengkulu,Toko Online,1,372766,372766
+2025-01-24,Webcam,Aksesori,Yogyakarta,Toko Fisik,5,618135,3090675
+2025-11-13,Webcam,Aksesori,Yogyakarta,Toko Fisik,1,599764,599764
+2025-11-25,Keyboard,Aksesori,Palembang,Toko Fisik,8,332141,2657128
+2025-08-21,Laptop,Elektronik,Palembang,Toko Fisik,3,6839869,20519607
+2025-09-05,Monitor,Elektronik,Jakarta,Toko Fisik,4,2129684,8518736
+2025-06-13,Webcam,Aksesori,Jakarta,Toko Fisik,6,657044,3942264
+2025-09-21,Headset,Aksesori,Palembang,Toko Online,2,433720,867440
+2025-05-17,Monitor,Elektronik,Bengkulu,Toko Fisik,4,2041986,8167944
+2025-07-16,Headset,Aksesori,Jakarta,Toko Fisik,7,427344,2991408
+2025-10-23,Webcam,Aksesori,Jakarta,Toko Fisik,6,562780,3376680
+2025-09-21,Monitor,Elektronik,Palembang,Toko Online,8,2366793,18934344
+2025-02-16,Monitor,Elektronik,Jakarta,Marketplace,8,2405342,19242736
+2025-06-30,Laptop,Elektronik,Yogyakarta,Marketplace,1,7172034,7172034
+2025-12-11,Monitor,Elektronik,Bengkulu,Toko Fisik,5,2216143,11080715
+2025-03-10,Keyboard,Aksesori,Bandung,Toko Online,6,368469,2210814
+2025-07-25,Laptop,Elektronik,Bandung,Marketplace,3,7592725,22778175
+2025-05-28,Laptop,Elektronik,Yogyakarta,Toko Fisik,2,7506383,15012766
+2025-11-16,Webcam,Aksesori,Bengkulu,Toko Fisik,2,555439,1110878
+2025-07-11,Keyboard,Aksesori,Jakarta,Marketplace,6,367847,2207082
+2025-09-18,Monitor,Elektronik,Jakarta,Marketplace,1,1999933,1999933
+2025-06-20,Monitor,Elektronik,Yogyakarta,Toko Online,8,2045533,16364264
+2025-06-17,Headset,Aksesori,Yogyakarta,Marketplace,6,419625,2517750
+2025-06-03,Headset,Aksesori,Yogyakarta,Marketplace,6,450658,2703948
+2025-09-08,Webcam,Aksesori,Bengkulu,Toko Fisik,5,596987,2984935
